@@ -1,5 +1,3 @@
----
-
 # The Future of Highways: AR/VR Windshield Displays and Adaptive Virtual Road Signaling Systems
 
 As urban populations rise and traffic congestion intensifies, governments face mounting pressure to modernize road infrastructure. Traditional solutions—like static road signs, painted lane markings, and physical traffic lights—are expensive to maintain, slow to update, and often inadequate for today’s dynamic environments.
