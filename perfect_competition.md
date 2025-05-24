@@ -16,22 +16,34 @@ A perfect competition platform is a digital marketplace designed to embody the p
 
 ---
 
-## Key Features
+description: >
+  Data analytics is the process of collecting, processing, analyzing and visualizing data to gain insights and make informed decisions. Data analytics can help improve the quality, efficiency and effectiveness of a product or service for general consumers by understanding their needs, preferences and behaviors. One way to obtain data for analytics is through community sourcing, which involves inviting users to contribute data voluntarily or in exchange for incentives. Community sourced data can provide rich and diverse information that reflects the real-world experiences and opinions of users. However, community sourced data also poses some challenges such as ensuring data quality, privacy and security. Therefore, data analytics support for a product or service based on community sourced data requires careful planning, design and implementation of data collection methods, analysis techniques and visualization tools that can address these challenges and provide valuable insights for both users and providers.
 
-### 1. **Transparency**
-All participants have access to the same information about products, prices, and sellers. This eliminates information asymmetry and empowers consumers to make informed decisions.
+product:
+  name: Smart Shopping Assistant
+  description: >
+    Our product is a smart shopping assistant that helps you save money and time on your grocery purchases.
+  features:
+    - name: Product Data
+      details: You can access detailed and accurate information about any product in our database, such as ingredients, nutrition facts, allergens, origin, etc. You can also compare different products based on their master data or codes (such as barcode or QR code).
+    - name: Realtime Price Info
+      details: You can scan any product and get the current price and availability at nearby stores. You can also see the price history and trends of any product over time.
+    - name: Basic Analytics Support
+      details: You can create a shopping list or a basket for your budget and get suggestions on how to optimize it. You can also track your spending habits and patterns over time.
+    - name: Cheapest Basket for Your Route
+      details: You can plan your shopping route based on your location and preferences. Our app will find the cheapest basket for your route by comparing prices and discounts at different stores along the way.
+    - name: Personalised Inflation
+      details: You can monitor how the prices of the products you buy change over time and how they affect your purchasing power. You can also see how your personal inflation rate compares to the official inflation rate.
+    - name: Economically Viable/Cheap Product Proposals/Options
+      details: You can discover new products that are cheaper, healthier, more sustainable or more suitable for your needs. Our app will use product persuasion/placement techniques to recommend products that match your profile and preferences.
 
-### 2. **Low Barriers to Entry**
-Anyone can join the platform as a buyer or seller, fostering innovation and competition. There are no restrictive fees or complex approval processes.
-
-### 3. **Standardized Products**
-Goods and services are clearly defined and standardized, making it easy for buyers to compare offerings and for sellers to compete on equal footing.
-
-### 4. **Dynamic Pricing**
-Prices adjust in real time based on supply and demand, ensuring that the market remains efficient and responsive to changes.
-
-### 5. **No Single Market Power**
-No individual buyer or seller can manipulate prices or control the market, preventing monopolies and ensuring fair competition.
+tasks:
+  - TASK 1: Product DATA -> Master Data vs Codes
+  - TASK 2: Collect realtime price Info.
+  - TASK 3: Basic analytics support -> Basket for budget.
+  - TASK 4: Cheapest basket for your route.
+  - TASK 5: Personalised inflation.
+  - TASK 6: Economically viable/cheap product proposals/options (Product persuasion/placement).
 
 ---
 
